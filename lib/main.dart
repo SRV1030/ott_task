@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:stageott/routes/router.dart';
 import 'package:stageott/routes/routes.dart';
-import '../constants/colors.dart' as schemes;
 void main() {
   runApp(const MyApp());
 }

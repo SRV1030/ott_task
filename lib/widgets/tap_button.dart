@@ -4,6 +4,7 @@ import 'package:pip_flutter/pipflutter_player_controller.dart';
 import '../constants/colors.dart' as schemes;
 
 
+// ignore: must_be_immutable
 class TapButton extends StatelessWidget {
   TapButton(
       {Key? key,
