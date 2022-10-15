@@ -77,7 +77,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   pipFlutterPlayerKey: pipFlutterPlayerKey,
                   ontap: () {
                     pipFlutterPlayerController
-                        .enablePictureInPicture(pipFlutterPlayerKey);
+                        .disablePictureInPicture();
                   },
                   title: "Disable PiP",
                 ),
